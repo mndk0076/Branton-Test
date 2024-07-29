@@ -1,0 +1,17 @@
+{
+  "public/img/map.jpg": {
+    "file": "assets/map-DmXLYwnW.jpg",
+    "src": "public/img/map.jpg"
+  },
+  "resources/css/app.scss": {
+    "file": "assets/app-Df6Mo32p.css",
+    "src": "resources/css/app.scss",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CPoLA4ct.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
